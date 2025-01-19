@@ -1,2 +1,2 @@
 # SWT
-This is a repo conating 10 commands for Software Tools Lab 
+This is a repo contaning  10 commands for Software Tools Lab 
